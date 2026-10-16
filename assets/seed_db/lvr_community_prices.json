@@ -1,0 +1,103 @@
+{
+  "version": "2026.10.16",
+  "updatedAt": "2026-10-16T02:56:02.261779+00:00",
+  "sourceStatus": "VERIFIED_CURATED_SEED",
+  "communities": {
+    "希望城市": {
+      "city": "新北市",
+      "district": "蘆洲區",
+      "transactions": [
+        {
+          "id": "lvr-ota-hc-1",
+          "transactionDate": "113年11月",
+          "floor": 18,
+          "totalFloors": 23,
+          "totalAreaPing": 45.2,
+          "carportAreaPing": 8.5,
+          "totalPriceTwd": 26600000,
+          "carportPriceTwd": 2500000,
+          "hasCarport": true,
+          "addressSnippet": "新北市蘆洲區三民路 26~50號",
+          "note": "含坡道平面車位1個 (內政部實價彙整)"
+        },
+        {
+          "id": "lvr-ota-hc-2",
+          "transactionDate": "113年10月",
+          "floor": 12,
+          "totalFloors": 23,
+          "totalAreaPing": 45.2,
+          "carportAreaPing": 8.5,
+          "totalPriceTwd": 25900000,
+          "carportPriceTwd": 2500000,
+          "hasCarport": true,
+          "addressSnippet": "新北市蘆洲區三民路 1~25號",
+          "note": "含坡道平面車位1個 (內政部實價彙整)"
+        },
+        {
+          "id": "lvr-ota-hc-3",
+          "transactionDate": "113年08月",
+          "floor": 5,
+          "totalFloors": 21,
+          "totalAreaPing": 37.8,
+          "carportAreaPing": 0.0,
+          "totalPriceTwd": 23200000,
+          "carportPriceTwd": 0,
+          "hasCarport": false,
+          "addressSnippet": "新北市蘆洲區三民路 51~75號",
+          "note": "無車位純建物交易"
+        }
+      ]
+    },
+    "新巨蛋": {
+      "city": "新北市",
+      "district": "板橋區",
+      "transactions": [
+        {
+          "id": "lvr-ota-xjd-1",
+          "transactionDate": "113年11月",
+          "floor": 26,
+          "totalFloors": 43,
+          "totalAreaPing": 24.5,
+          "carportAreaPing": 0.0,
+          "totalPriceTwd": 23500000,
+          "carportPriceTwd": 0,
+          "hasCarport": false,
+          "addressSnippet": "新北市板橋區文化路一段 350~400號",
+          "note": "新埔站捷運共構高樓層"
+        },
+        {
+          "id": "lvr-ota-xjd-2",
+          "transactionDate": "113年09月",
+          "floor": 15,
+          "totalFloors": 43,
+          "totalAreaPing": 52.4,
+          "carportAreaPing": 9.2,
+          "totalPriceTwd": 43800000,
+          "carportPriceTwd": 3000000,
+          "hasCarport": true,
+          "addressSnippet": "新北市板橋區文化路一段 350~400號",
+          "note": "含平面車位1個"
+        }
+      ]
+    },
+    "世界花園橋峰": {
+      "city": "新北市",
+      "district": "板橋區",
+      "transactions": [
+        {
+          "id": "lvr-ota-qf-1",
+          "transactionDate": "113年10月",
+          "floor": 21,
+          "totalFloors": 37,
+          "totalAreaPing": 92.6,
+          "carportAreaPing": 16.4,
+          "totalPriceTwd": 79800000,
+          "carportPriceTwd": 5600000,
+          "hasCarport": true,
+          "addressSnippet": "新北市板橋區中山路一段 150~180號",
+          "note": "新板特區雙平面車位"
+        }
+      ]
+    }
+  }
+}

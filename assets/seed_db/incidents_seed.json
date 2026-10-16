@@ -1,0 +1,46 @@
+{
+  "incidents": [
+    {
+      "id": "inc-2023-01",
+      "city": "新北市",
+      "district": "蘆洲區",
+      "extracted_address": "長榮路",
+      "community_name": "希望城市",
+      "floor_hint": 4,
+      "source_type": "JUDICIAL_VERDICT",
+      "reference_title": "臺灣新北地方法院 112 年度訴字第 1542 號民事判決",
+      "incident_date": "2023-06-15",
+      "summary_excerpt": "原告主張被告隱匿系爭房屋曾於民國110年間發生非自然死亡事件，請求減少買賣價金...",
+      "source_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=PCDV,112,%E8%A8%B4,1542,20230615,1",
+      "verification_status": "PUBLISHED"
+    },
+    {
+      "id": "inc-2022-02",
+      "city": "臺北市",
+      "district": "中山區",
+      "extracted_address": "新生北路二段",
+      "community_name": "錦新大樓",
+      "floor_hint": 6,
+      "source_type": "JUDICIAL_VERDICT",
+      "reference_title": "臺灣臺北地方法院 111 年度重訴字第 380 號民事判決",
+      "incident_date": "2022-10-20",
+      "summary_excerpt": "兩造因不動產買賣契約糾紛，爭執同棟大樓歷史火災及非自然死亡紀錄是否構成物之瑕疵...",
+      "source_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPDV,111,%E9%87%8D%E8%A8%B4,380,20221020,1",
+      "verification_status": "PUBLISHED"
+    },
+    {
+      "id": "inc-2024-03",
+      "city": "新北市",
+      "district": "三重區",
+      "extracted_address": "重陽路三段",
+      "community_name": "正義大樓",
+      "floor_hint": 9,
+      "source_type": "NEWS_ARCHIVE",
+      "reference_title": "中央通訊社 2024-02-18 社會新聞存檔",
+      "incident_date": "2024-02-18",
+      "summary_excerpt": "新北市三重區某集合住宅大樓清晨發生墜樓事件，警消獲報趕抵現場處理...",
+      "source_url": "https://www.cna.com.tw",
+      "verification_status": "PUBLISHED"
+    }
+  ]
+}
